@@ -1,0 +1,13 @@
+product_id,brand,product_name,category,gender,color,size_available,price_gbp,material,in_stock
+BUK001,Burberry,Kensington Heritage Trench Coat,Trench Coat,Women,Honey,"4|6|8|10|12|14",1890,Cotton Gabardine,Yes
+BUK002,Burberry,Westminster Heritage Trench Coat,Trench Coat,Men,Honey,"36|38|40|42|44|46",1990,Cotton Gabardine,Yes
+BUK003,Burberry,Waterloo Long Heritage Trench Coat,Trench Coat,Women,Black,"4|6|8|10|12|14",1890,Cotton Gabardine,Yes
+BUK004,Burberry,Mid-Length Camden Car Coat,Car Coat,Men,Navy,"36|38|40|42|44",1390,Cotton Blend,Yes
+BUK005,Burberry,Reversible Check Wool Coat,Wool Coat,Women,Beige Check,"6|8|10|12",1690,Wool,Yes
+BUK006,Burberry,Quilted Thermoregulated Coat,Quilted Coat,Men,Black,"38|40|42|44|46",1190,Polyester,Yes
+BUK007,Burberry,Long Wool Cashmere Coat,Wool Coat,Women,Camel,"6|8|10|12|14",1790,Wool Cashmere Blend,Yes
+BUK008,Burberry,Lightweight Hooded Car Coat,Rain Coat,Men,Stone,"38|40|42|44",1290,Cotton Nylon Blend,Yes
+BUK009,Burberry,Belted Check Panel Trench Coat,Trench Coat,Women,Archive Beige,"4|6|8|10|12",1990,Cotton Gabardine,Yes
+BUK010,Burberry,Double-Breasted Wool Coat,Wool Coat,Men,Charcoal,"38|40|42|44|46",1590,Wool,No
+BUK011,Burberry,Short Kensington Trench Coat,Trench Coat,Women,Honey,"4|6|8|10|12",1690,Cotton Gabardine,Yes
+BUK012,Burberry,Packaway Hood Raincoat,Rain Coat,Women,Olive,"6|8|10|12|14",990,Polyester,Yes
