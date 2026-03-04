@@ -1,0 +1,6 @@
+customer_id,age,gender,region,income_band,product_category,units_sold,unit_price,profit_margin,review_text,purchased_again
+1001,34,Male,London,High,Shoes,2,120,0.32,"Great quality leather shoes, very comfortable",1
+1002,45,Female,Manchester,Medium,Belts,1,60,0.28,"Nice design but slightly overpriced",0
+1003,29,Male,Birmingham,Low,Shoes,3,110,0.35,"Excellent craftsmanship and fast delivery",1
+1004,52,Female,Leeds,High,Bags,1,250,0.40,"Luxury feel, worth every penny",1
+1005,38,Male,Bristol,Medium,Shoes,1,130,0.22,"Good but sizing was an issue",0
